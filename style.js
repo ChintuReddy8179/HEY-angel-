@@ -1,39 +1,3 @@
-
-Codewithshobhit
-Codewithshobhit
-×
-Home
-Learn HTML
-Project
-Blog
-Code Editor
-Search....
-×
-
-Rose Day Animation Using HTML CSS And Javascript
-Codewithshobhit
-By Codewithshobhit
-
-Web Design
-Rose Day Animation Using HTML CSS And Javascript
-Hey there, You are most welcome to this article. I hope you will enjoy this article. If you like this article then please share this article with your friends and colleagues. If you have any questions or suggestions regarding this article then please comment down below.
-
-
-
-📙Table Of Content
-Rose Day Animation Project Folder Structure
-Rose Day Animation HTML CODE
-Rose Day Animation CSS CODE
-Rose Day Animation Javascript CODE
-Live Preview Of Rose Day Animation
-Project Folder Structure:
-Create a file called  index.html  to serve as the main file.
-Create a file called  style.css  for the CSS code.
-Create a file called  script.js  for the JavaScript code.
-
-Rose Day Animation HTML CODE
-  
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
