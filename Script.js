@@ -1,5 +1,3 @@
-// press the button to take a photo.
-
 let light = document.getElementById('circle');
 
 document.getElementById('button').addEventListener('click', () => {
